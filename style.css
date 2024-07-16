@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  h1 {
+    text-align: center;
+  }
+  .city {
+    text-align: center;
+    color: yellow;
+    padding: 20px;
+  }
+  .bob {
+    color: red;
+    padding: 10px;
+    font-size: 1.101em;
+    word-spacing: 4px;
+  }
+  
+  body {
+  
+    background-image: url('gaminghe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
